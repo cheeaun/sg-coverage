@@ -1,0 +1,11 @@
+{
+  "name": "sg-coverage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/turf": "^5.1.6"
+  }
+}
